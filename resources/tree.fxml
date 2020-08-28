@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import com.mikey.aop.trees.components.TreeBorderPane?>
+<TreeBorderPane xmlns="http://javafx.com/javafx"
+                xmlns:fx="http://javafx.com/fxml"
+                fx:controller="com.mikey.aop.controllers.TreeController"
+                fx:id="treeBorderPane"/>

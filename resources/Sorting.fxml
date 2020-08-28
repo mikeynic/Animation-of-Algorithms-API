@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import com.mikey.aop.sorting.components.SortingBorderPane?>
+<SortingBorderPane fx:controller="com.mikey.aop.controllers.SortingController"
+                   xmlns:fx="http://javafx.com/javafx/10.0.2-internal"
+                   fx:id="sortingBorderPane"/>
